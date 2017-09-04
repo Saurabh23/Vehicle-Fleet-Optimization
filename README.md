@@ -4,4 +4,4 @@
 
 - The objective here is to predict the service times required for a customer given the driver, vehicle and waste type, which helped the company to optimise the number of customers served in a given day by its fleet, adding significant business value.
 
-- The results were communicated to the client using interactive dashboards in Shiny and Tableu as well as a detailed report.
+- The results were communicated to the client using interactive dashboards in Shiny and Tableu as well as a detailed report containing EDA, machine learning model details, business recommendations etc (Fleet Document.pdf).
